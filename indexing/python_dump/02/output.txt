@@ -1,0 +1,16 @@
+Insert a news source: The New York Times
+Insert text terms: 
+Found 5 results.
+score: 3.3360603 source: The New York Times
+body: The revival of supersonic passenger travel, thought to be long dead with the demise of Concord
+score: 0.09337806 source: The Herald-ir
+body: Antonio Conte. Pic: PA
+Head coach Antonio Conte does not think Chelsea are in the race to sign
+score: 0.09337806 source: The Herald-ir
+body: Hamid Sanambar
+Gardai are hunting for a gunman who opened fire on a car in north Dublin - just
+score: 0.09337806 source: The Herald-ir
+body: Luke O'Reilly with his mother Janet O'Brien Luke O'Reilly Jack Hall Ellis The Metro One Bar in
+score: 0.09337806 source: The Herald-ir
+body: Charles Leclerc
+Charles Leclerc registered the maiden win of his Formula One career after romp
