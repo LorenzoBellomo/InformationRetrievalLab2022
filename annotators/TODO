@@ -1,0 +1,6 @@
+- create an account in SoBigData++ https://accounts.d4science.org/auth/realms/d4science/login-actions/registration?client_id=sobigdata.d4science.org&tab_id=2fQwqXGSTOk
+- in config.json add the key
+IF INTERESTED IN TRYING WIKIPEDIA 2 VEC
+- https://wikipedia2vec.github.io/wikipedia2vec/pretrained/ download enwiki_20180420 (window=5, iteration=10, negative=15) 100 d
+- unzip it
+- put the path to this file in config.json

@@ -1,0 +1,29 @@
+[
+    {
+        "result": [
+            {
+                "couple": "Biology Biotechnology",
+                "rel": 0.6070536971092224
+            }
+        ],
+        "api": "rel",
+        "lang": "en",
+        "errors": 0,
+        "timestamp": "2022-08-30T13:52:13"
+    },
+
+
+    
+    {
+        "result": [
+            {
+                "couple": "Barack_Obama Biotechnology",
+                "rel": 0.23863035440444946
+            }
+        ],
+        "api": "rel",
+        "lang": "en",
+        "errors": 0,
+        "timestamp": "2022-08-30T13:52:13"
+    }
+]

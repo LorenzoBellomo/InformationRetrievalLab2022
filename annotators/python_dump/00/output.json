@@ -1,0 +1,36 @@
+{
+    "test": "5",
+    "annotations": [
+        {
+            "spot": "Italy",
+            "start": 0,
+            "link_probability": 0.4437723457813263,
+            "rho": 0.4525856375694275,
+            "end": 5,
+            "id": 362466,
+            "title": "Italy national football team"
+        },
+        {
+            "spot": "will",
+            "start": 6,
+            "link_probability": 0.0036389119923114777,
+            "rho": 0.06729841977357864,
+            "end": 10,
+            "id": 32828260,
+            "title": "Will (2011 film)"
+        },
+        {
+            "spot": "2022 world cup",
+            "start": 35,
+            "link_probability": 0.3492063581943512,
+            "rho": 0.3398236632347107,
+            "end": 49,
+            "id": 17742072,
+            "title": "2022 FIFA World Cup"
+        }
+    ],
+    "time": 29,
+    "api": "tag",
+    "lang": "en",
+    "timestamp": "2022-08-30T13:34:49"
+}

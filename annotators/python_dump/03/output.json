@@ -1,0 +1,382 @@
+[
+    {
+        "salience_class": 1.0,
+        "salience_score": 0.9471508264541626,
+        "spans": [
+            {
+                "end": 17,
+                "start": 0
+            },
+            {
+                "end": 422,
+                "start": 414
+            }
+        ],
+        "wiki_id": 18079,
+        "wiki_title": "Leonardo_da_Vinci"
+    },
+    {
+        "salience_class": 1.0,
+        "salience_score": 0.5190669894218445,
+        "spans": [
+            {
+                "end": 32,
+                "start": 25
+            }
+        ],
+        "wiki_id": 14532,
+        "wiki_title": "Italy"
+    },
+    {
+        "salience_class": 1.0,
+        "salience_score": 0.5682003498077393,
+        "spans": [
+            {
+                "end": 44,
+                "start": 33
+            }
+        ],
+        "wiki_id": 25532,
+        "wiki_title": "Renaissance"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.4803982079029083,
+        "spans": [
+            {
+                "end": 65,
+                "start": 60
+            }
+        ],
+        "wiki_id": 9630,
+        "wiki_title": "Ecology"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.35197311639785767,
+        "spans": [
+            {
+                "end": 77,
+                "start": 69
+            }
+        ],
+        "wiki_id": 146738,
+        "wiki_title": "Interest"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.42167073488235474,
+        "spans": [
+            {
+                "end": 96,
+                "start": 87
+            }
+        ],
+        "wiki_id": 44312,
+        "wiki_title": "Invention"
+    },
+    {
+        "salience_class": 1.0,
+        "salience_score": 0.6101479530334473,
+        "spans": [
+            {
+                "end": 106,
+                "start": 98
+            },
+            {
+                "end": 400,
+                "start": 392
+            }
+        ],
+        "wiki_id": 18622193,
+        "wiki_title": "Painting"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.39483514428138733,
+        "spans": [
+            {
+                "end": 117,
+                "start": 108
+            }
+        ],
+        "wiki_id": 26714,
+        "wiki_title": "Sculpture"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.4347767233848572,
+        "spans": [
+            {
+                "end": 131,
+                "start": 119
+            },
+            {
+                "end": 345,
+                "start": 333
+            }
+        ],
+        "wiki_id": 21296224,
+        "wiki_title": "Architecture"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.1979953646659851,
+        "spans": [
+            {
+                "end": 140,
+                "start": 133
+            }
+        ],
+        "wiki_id": 26700,
+        "wiki_title": "Science"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.29977622628211975,
+        "spans": [
+            {
+                "end": 147,
+                "start": 142
+            }
+        ],
+        "wiki_id": 18839,
+        "wiki_title": "Music"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.20876313745975494,
+        "spans": [
+            {
+                "end": 160,
+                "start": 149
+            }
+        ],
+        "wiki_id": 18831,
+        "wiki_title": "Mathematics"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.13533131778240204,
+        "spans": [
+            {
+                "end": 173,
+                "start": 162
+            }
+        ],
+        "wiki_id": 9251,
+        "wiki_title": "Engineering"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.12278387695550919,
+        "spans": [
+            {
+                "end": 185,
+                "start": 175
+            }
+        ],
+        "wiki_id": 18963870,
+        "wiki_title": "Literature"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.2288590520620346,
+        "spans": [
+            {
+                "end": 194,
+                "start": 187
+            }
+        ],
+        "wiki_id": 674,
+        "wiki_title": "Anatomy"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.1072157695889473,
+        "spans": [
+            {
+                "end": 203,
+                "start": 196
+            }
+        ],
+        "wiki_id": 12207,
+        "wiki_title": "Geology"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.09711673855781555,
+        "spans": [
+            {
+                "end": 214,
+                "start": 205
+            }
+        ],
+        "wiki_id": 50650,
+        "wiki_title": "Astronomy"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.0810595229268074,
+        "spans": [
+            {
+                "end": 222,
+                "start": 216
+            }
+        ],
+        "wiki_id": 4183,
+        "wiki_title": "Botany"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.0872930958867073,
+        "spans": [
+            {
+                "end": 231,
+                "start": 224
+            }
+        ],
+        "wiki_id": 32977,
+        "wiki_title": "Writing"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.35921505093574524,
+        "spans": [
+            {
+                "end": 240,
+                "start": 233
+            },
+            {
+                "end": 412,
+                "start": 404
+            }
+        ],
+        "wiki_id": 10772350,
+        "wiki_title": "History"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.07925435155630112,
+        "spans": [
+            {
+                "end": 257,
+                "start": 246
+            }
+        ],
+        "wiki_id": 7294,
+        "wiki_title": "Cartography"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.056738633662462234,
+        "spans": [
+            {
+                "end": 299,
+                "start": 289
+            }
+        ],
+        "wiki_id": 407127,
+        "wiki_title": "God_the_Father"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.0448526032269001,
+        "spans": [
+            {
+                "end": 316,
+                "start": 303
+            }
+        ],
+        "wiki_id": 23084,
+        "wiki_title": "Paleontology"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.02578055113554001,
+        "spans": [
+            {
+                "end": 327,
+                "start": 318
+            }
+        ],
+        "wiki_id": 349876,
+        "wiki_title": "Ichnology"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.04917886108160019,
+        "spans": [
+            {
+                "end": 465,
+                "start": 456
+            }
+        ],
+        "wiki_id": 169548,
+        "wiki_title": "Ingenuity"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.21726885437965393,
+        "spans": [
+            {
+                "end": 500,
+                "start": 492
+            },
+            {
+                "end": 582,
+                "start": 575
+            }
+        ],
+        "wiki_id": 51462,
+        "wiki_title": "Machine"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.043976280838251114,
+        "spans": [
+            {
+                "end": 508,
+                "start": 502
+            }
+        ],
+        "wiki_id": 13088,
+        "wiki_title": "Granite"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.028993479907512665,
+        "spans": [
+            {
+                "end": 537,
+                "start": 512
+            }
+        ],
+        "wiki_id": 2148,
+        "wiki_title": "Armoured_fighting_vehicle"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.04080243408679962,
+        "spans": [
+            {
+                "end": 563,
+                "start": 539
+            }
+        ],
+        "wiki_id": 17805223,
+        "wiki_title": "Concentrated_solar_power"
+    },
+    {
+        "salience_class": 0.0,
+        "salience_score": 0.0403459370136261,
+        "spans": [
+            {
+                "end": 603,
+                "start": 588
+            }
+        ],
+        "wiki_id": 2397350,
+        "wiki_title": "Double_hull"
+    }
+]

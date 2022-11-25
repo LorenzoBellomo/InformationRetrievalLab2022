@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 config.json
-annotators
-solution.json
+solution.txt
+create_article_dump.py
