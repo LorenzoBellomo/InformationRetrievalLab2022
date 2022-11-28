@@ -1,0 +1,96 @@
+Insert a news source: York
+Insert text terms: mother
+Found 3 results.
+=====================================================================
+score: 1.331981 source: The Herald-ir
+body: Luke O'Reilly with his mother Janet O'Brien Luke O'Reilly Jack Hall Ellis The Metro One Bar in
+=====================================================================
+score: 1.0892314 source: The New York Times
+body: The revival of supersonic passenger travel, thought to be long dead with the demise of Concord
+=====================================================================
+score: 0.9655346 source: The Herald-ir
+body: Charles Leclerc
+Charles Leclerc registered the maiden win of his Formula One career after romp
+
+
+Found 3 results.
+=====================================================================
+body: Luke O'Reilly with his mother Janet O'Brien Luke O'Reilly Jack Hall Ellis The Metro One Bar in
+=====================================================================
+score: 0.9655346 source: The Herald-ir
+body: Charles Leclerc
+Charles Leclerc registered the maiden win of his Formula One career after romp
+
+
+EXPLAINATION PART
+
+{
+    "value": 1.331981,
+    "description": "sum of:",
+    "details": [
+        {
+            "value": 1.331981,
+            "description": "weight(maintext:mother in 3) [PerFieldSimilarity], result of:",
+            "details": [
+                {
+                    "value": 1.331981,
+                    "description": "score(freq=5.0), computed as boost * idf * tf from:",
+                    "details": [
+                        {
+                            "value": 2.2,
+                            "description": "boost",
+                            "details": []
+                        },
+                        {
+                            "value": 0.87546873,
+                            "description": "idf, computed as log(1 + (N - n + 0.5) / (n + 0.5)) from:",
+                            "details": [
+                                {
+                                    "value": 2,
+                                    "description": "n, number of documents containing term",
+                                    "details": []
+                                },
+                                {
+                                    "value": 5,
+                                    "description": "N, total number of documents with field",
+                                    "details": []
+                                }
+                            ]
+                        },
+                        {
+                            "value": 0.69156766,
+                            "description": "tf, computed as freq / (freq + k1 * (1 - b + b * dl / avgdl)) from:",
+                            "details": [
+                                {
+                                    "value": 5.0,
+                                    "description": "freq, occurrences of term within document",
+                                    "details": []
+                                },
+                                {
+                                    "value": 1.2,
+                                    "description": "k1, term saturation parameter",
+                                    "details": []
+                                },
+                                {
+                                    "value": 0.75,
+                                    "description": "b, length normalization parameter",
+                                    "details": []
+                                },
+                                {
+                                    "value": 600.0,
+                                    "description": "dl, length of field (approximate)",
+                                    "details": []
+                                },
+                                {
+                                    "value": 279.8,
+                                    "description": "avgdl, average length of field",
+                                    "details": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
