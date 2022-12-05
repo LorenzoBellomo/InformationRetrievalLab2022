@@ -1,0 +1,55 @@
+QUERY 1: {
+    "query": {
+        "bool": {
+            "should": [
+                {"match": {"source" : "Rai News"}}, 
+                {"match": {"author" : "Caterina de Luca"}}
+            ],
+            "minimum_should_match": 1,
+            "must": [
+                {"match": {"maintext" : "world"}}, 
+                {
+                    "range": {
+                        "pub-date": {
+                            "gte":"2019-12-05", 
+                            "lte": "2020-01-25"
+                        }
+                    }
+                }
+            ]
+        }      
+    }      
+}
+3 articles
+
+
+QUERY 2: {
+    "query": {
+        "bool": {
+            "should": [
+                {"match": {"source" : "Rai News"}}, 
+                {"match": {"author" : "Caterina de Luca"}}
+            ],
+            "minimum_should_match": 1,
+            "must": [
+                {
+                    "range": {
+                        "pub-date": {
+                            "gte":"2019-12-05", 
+                            "lte": "2020-01-25"
+                        }
+                    }
+                }
+            ],
+            "must_not": {
+                "bool": {
+                    "must": [
+                        {"match": {"source" : "Rai News"}}, 
+                        {"match": {"author" : "Caterina de Luca"}}
+                    ],
+                }
+            }
+        }      
+    }      
+}
+96 articles
